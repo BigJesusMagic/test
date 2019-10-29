@@ -1,5 +1,5 @@
 alfjdjsadfjsdlf
-00000000000
+00000
 sdflkj
 $(function(){
     //ES5   var 
